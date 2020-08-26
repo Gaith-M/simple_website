@@ -1,0 +1,31 @@
+.newsletter_container {
+  margin: 5em 0;
+  padding: 4em 0;
+  text-align: center;
+}
+
+.heading_paragraph {
+  font-size: 2.2em;
+  margin-bottom: 0.3em;
+  letter-spacing: 1px;
+}
+
+.sub_paragraph {
+  font-weight: 300;
+  margin-bottom: 2em;
+}
+
+.newsletter_input {
+  min-width: 320px;
+  border: 1px solid;
+  padding: 10px 5px;
+  margin: 10px;
+  background-color: #fff;
+}
+
+.newsletter_button {
+  padding: 11.2px 15px;
+  border: none;
+  background-color: #353535;
+  color: #fff;
+}

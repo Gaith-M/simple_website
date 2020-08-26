@@ -1,0 +1,76 @@
+.navbar {
+  width: 90%;
+  margin: 0 auto;
+  padding: 2.5em 0em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #dacbbf;
+}
+
+.navbar a {
+  padding: 0;
+}
+
+.search_box_and_user_links {
+  display: flex;
+  flex: 1 1 40%;
+  justify-content: flex-end;
+  align-items: center;
+  max-width: 350px;
+}
+
+.cart {
+  margin-left: 1.5em;
+}
+
+.search_box_and_user_links i {
+  font-size: 1.3em;
+  color: #3e3131;
+}
+
+.search_box {
+  width: 60px;
+  height: 60px;
+  margin-left: 1.5em;
+  border: 1px solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo_and_main_links {
+  display: flex;
+  flex: 1 1 60%;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.main_links {
+  display: flex;
+  flex: 1 1 50%;
+  max-width: 425px;
+  justify-content: space-around;
+}
+
+.navbar a {
+  padding: 0 1em;
+  display: inline-block;
+  text-decoration: none;
+  text-transform: capitalize;
+  color: #6b6060;
+}
+
+.logo {
+  width: 60px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2em;
+  font-weight: bold;
+  background-color: #000;
+}
+.logo > span {
+  color: #fff;
+}
