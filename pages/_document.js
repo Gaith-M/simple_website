@@ -12,6 +12,7 @@ class CustomeDocument extends Documnet {
           <script
             src="https://kit.fontawesome.com/8554fb7338.js"
             crossOrigin="anonymous"
+            samesite="None"
           />
         </Head>
 
